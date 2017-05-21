@@ -1,0 +1,9 @@
+c:\users\f3l1x\documents\visual studio 2015\Projects\CompiladorApp\CompiladorApp\bin\Debug\CompiladorApp.exe.config
+c:\users\f3l1x\documents\visual studio 2015\Projects\CompiladorApp\CompiladorApp\bin\Debug\CompiladorApp.exe
+c:\users\f3l1x\documents\visual studio 2015\Projects\CompiladorApp\CompiladorApp\bin\Debug\CompiladorApp.pdb
+c:\users\f3l1x\documents\visual studio 2015\Projects\CompiladorApp\CompiladorApp\obj\Debug\CompiladorApp.csprojResolveAssemblyReference.cache
+c:\users\f3l1x\documents\visual studio 2015\Projects\CompiladorApp\CompiladorApp\obj\Debug\CompiladorApp.Form1.resources
+c:\users\f3l1x\documents\visual studio 2015\Projects\CompiladorApp\CompiladorApp\obj\Debug\CompiladorApp.Properties.Resources.resources
+c:\users\f3l1x\documents\visual studio 2015\Projects\CompiladorApp\CompiladorApp\obj\Debug\CompiladorApp.csproj.GenerateResource.Cache
+c:\users\f3l1x\documents\visual studio 2015\Projects\CompiladorApp\CompiladorApp\obj\Debug\CompiladorApp.exe
+c:\users\f3l1x\documents\visual studio 2015\Projects\CompiladorApp\CompiladorApp\obj\Debug\CompiladorApp.pdb
